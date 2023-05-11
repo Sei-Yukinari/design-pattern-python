@@ -1,6 +1,6 @@
 from collections.abc import Iterable, Iterator
 
-from book import Book
+from iterator.book import Book
 
 
 class BookShelf(Iterable):
